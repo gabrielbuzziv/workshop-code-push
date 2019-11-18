@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">codepush</string>
+    <string name="reactNativeCodePush_androidDeploymentKey">something</string>
+</resources>
